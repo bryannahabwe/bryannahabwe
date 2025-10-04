@@ -16,8 +16,6 @@ Here are some of the technologies and tools I work with:
 ![Tech Stack](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)
 ![Tech Stack](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Tech Stack](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![Tech Stack](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![Tech Stack](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 ![Tech Stack](https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white)
 
 ![Tech Stack](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)
@@ -31,10 +29,6 @@ Here are some of the technologies and tools I work with:
 
 ![Tech Stack](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?logo=digitalOcean&logoColor=white)
 ![Tech Stack](https://img.shields.io/badge/Odoo-714B67?logo=Odoo&logoColor=fff)
-![Tech Stack](https://img.shields.io/badge/SonarCloud-F3702A?logo=sonarcloud&logoColor=fff)
-![Tech Stack](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)
-![Tech Stack](https://img.shields.io/badge/Linear-5E6AD2?logo=linear&logoColor=fff)
-![Tech Stack](https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff)
 
 ## 📈 GitHub Stats
 
