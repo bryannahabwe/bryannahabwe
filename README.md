@@ -1,7 +1,6 @@
 ## Hi there, I'm Nahabwe Brian! 👋
 
-I'm a passionate Software Developer with a love for coding and football.
-I enjoy building things that solve real-world problems and sharing my knowledge with the community.
+I’m a software engineer with 6 years of experience specialising in Java, Spring Boot, Python and other development tools. I’ve built scalable applications, integrated with third-party systems, and worked on multi-tenant SaaS platforms. I'm also passionate about solving complex problems, exploring new technologies, and sharing experience via collaborative projects.
 
 ## 🚀 About Me
 
