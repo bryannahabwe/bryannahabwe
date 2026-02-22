@@ -28,6 +28,7 @@ Here are some of the technologies and tools I work with:
 
 ![Tech Stack](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?logo=digitalOcean&logoColor=white)
 ![Tech Stack](https://img.shields.io/badge/Odoo-714B67?logo=Odoo&logoColor=fff)
+![Tech Stack](https://img.shields.io/badge/Metabase-2D2F47?logo=metabase&logoColor=white)
 
 ## 📈 GitHub Stats
 
