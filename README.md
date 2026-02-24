@@ -4,8 +4,8 @@ I’m a software engineer with 6 years of experience specialising in Java, Sprin
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on: [Loan Application for my Sacco]
-- 🌱 I’m currently learning: [I'm currently mastering Python]
+- 🔭 I’m currently working on: [SACCO Management System]
+- 🌱 I’m currently learning: [Mastering Python]
 
 ## 🛠️ Technologies & Tools
 
