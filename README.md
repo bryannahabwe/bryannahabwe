@@ -1,6 +1,6 @@
 ## Hi there, I'm Nahabwe Brian! 👋
 
-I’m a software engineer with 6 years of experience specialising in Java, Spring Boot, Python and other development tools. I’ve built scalable applications, integrated with third-party systems, and worked on multi-tenant SaaS platforms. I'm also passionate about solving complex problems, exploring new technologies, and sharing experience via collaborative projects.
+I’m a software engineer with 8 years of experience specialising in Java, Spring Boot, Python and other development tools. I’ve built scalable applications, integrated with third-party systems, and worked on multi-tenant SaaS platforms. I'm also passionate about solving complex problems, exploring new technologies, and sharing experience via collaborative projects.
 
 ## 🚀 About Me
 
@@ -30,14 +30,5 @@ Here are some of the technologies and tools I work with:
 ![Tech Stack](https://img.shields.io/badge/Odoo-714B67?logo=Odoo&logoColor=fff)
 ![Tech Stack](https://img.shields.io/badge/Metabase-2D2F47?logo=metabase&logoColor=white)
 
-## 📈 GitHub Stats
 
-![Nahabwe Brian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bryannahabwe&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bryannahabwe&layout=compact&theme=radical)
-
-## 🏆 GitHub Trophies
-
-![Your Name's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=bryannahabwe&theme=radical)
-
-⭐️ From [Nahabwe Brian](https://github.com/bryannahabwe)
+Most of my production work is in private repositories at XENO Investment and Rexial. I'm happy to discuss architecture and technical decisions in detail during interviews.
