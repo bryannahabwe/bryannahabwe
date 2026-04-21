@@ -60,5 +60,5 @@ Most of my production work lives in private repos. I'm happy to walk through arc
 
 ## Get in touch
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-nahabwebrian-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/nahabwebrian)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-nahabwebrian-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/nahabwe-brian)
 [![Email](https://img.shields.io/badge/Email-nahabwebrian24@gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:nahabwebrian24@gmail.com)
