@@ -1,6 +1,10 @@
 # Nahabwe Brian — Senior Backend Engineer
 
-8 years building production fintech systems in Java and Spring Boot. I specialise in payment integrations, microservices, and scalable APIs — currently at **XENO Investment** (fund management platform) and **Rexial** (payment infrastructure).
+Senior Backend Engineer specializing in Java, Spring Boot, Payments, and Financial Systems based in Kampala, Uganda.
+
+8 years building production fintech systems in Java and Spring Boot. I specialise in payment integrations, microservices, and scalable APIs — currently at **XENO Investment** (fund management platform), and previously **Rexial** (payment infrastructure, 2024–2026).
+
+**Portfolio & engineering case studies → [bryannahabwe.github.io](https://bryannahabwe.github.io/)**
 
 ---
 
@@ -11,7 +15,7 @@
 - **Core banking** — member management, savings, loans, and repayment workflows
 - **Multi-tenant SaaS** — school management platform handling attendance, billing, and reporting across multiple schools
 
-Most of my production work lives in private repos. I'm happy to walk through architecture and technical decisions in detail during interviews.
+Most of my production work lives in private repos — the [case studies on my portfolio](https://bryannahabwe.github.io/work/) walk through the architecture and decisions, and I'm happy to go deeper in interviews.
 
 ---
 
@@ -60,5 +64,7 @@ Most of my production work lives in private repos. I'm happy to walk through arc
 
 ## Get in touch
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-nahabwebrian-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/nahabwe-brian)
+[![Portfolio](https://img.shields.io/badge/Portfolio-bryannahabwe.github.io-1D5FE0?logo=googlechrome&logoColor=white)](https://bryannahabwe.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-nahabwe--brian-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nahabwe-brian/)
+[![X](https://img.shields.io/badge/X-@nahabwebryn-000000?logo=x&logoColor=white)](https://x.com/nahabwebryn)
 [![Email](https://img.shields.io/badge/Email-nahabwebrian24@gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:nahabwebrian24@gmail.com)
